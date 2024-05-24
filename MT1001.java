@@ -9,6 +9,10 @@ public class MT1001 {
         System.out.println("Coding is fun!");
         System.out.println("Files can be changed and saved!");
         System.out.println("Git branch create and merge!");
+<<<<<<< HEAD
         System.out.println("Branch conflictS");
+=======
+        System.out.println("branch conflictS");
+>>>>>>> feature1
     }
 }
